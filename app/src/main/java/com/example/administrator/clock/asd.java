@@ -5,4 +5,5 @@ package com.example.administrator.clock;
  */
 
 public class asd {
+    private String name;
 }
